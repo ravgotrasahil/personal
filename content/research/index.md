@@ -23,7 +23,7 @@ with [Marcin Kolasa](https://sites.google.com/view/marcin-kolasa/home) and [Pawe
 We analyze the implications of adding boundedly rational agents à la Gabaix (2020) to the canonical New Keynesian open economy model. We show that accounting for myopia mitigates several “puzzling” aspects of the relationship between exchange rates and interest rates and helps explain why some of them only arise in the nested case of rational expectations.
 
 [**Published Version**](https://www.sciencedirect.com/science/article/pii/S0022199625000431) 
-[**Online Appendix**](/uploads/jieapp.pdf) 
+[**Online Appendix**](https://github.com/ravgotrasahil/personal/blob/main/static/uploads/jieapp.pdf) 
 [**IMF Working Paper**](/uploads/imfwp.pdf) 
 [**Replication Code**](https://github.com/sahil-ravgotra/exchange-rate-myopia)
 
